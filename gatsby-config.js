@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Carter Rink',
     siteURL: 'https://github.com/cartuhok/portfolio',
   },
   pathPrefix: '/portfolio',
